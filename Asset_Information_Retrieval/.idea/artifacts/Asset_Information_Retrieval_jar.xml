@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Asset Information Retrieval:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Asset_Information_Retrieval_jar</output-path>
+    <root id="archive" name="Asset Information Retrieval.jar">
+      <element id="module-output" name="Asset Information Retrieval" />
+    </root>
+  </artifact>
+</component>
